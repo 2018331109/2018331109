@@ -1,11 +1,13 @@
-[![Cover Photo](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
-
 <h1 align="center">Hi 👋, I'm Ahmadul Hasan</h1>
 <h3 align="center">I am now a fresh graduate from the Department of CSE, Shahjalal University of Science and Technology</h3>
+
+[![Cover Photo](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2018331109&label=Profile%20views&color=0e75b6&style=flat" alt="2018331109" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2018331109" alt="2018331109" /></a> </p>
+
+- 🔭 I’m currently working on [E-Commerce](https://shorturl.at/vMOPV)
 
 - 🌱 I’m currently learning **Web FrameWorks**
 
@@ -13,16 +15,16 @@
 
 - 📫 How to reach me **ahmadulsh@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://github.com/2018331109/Resume/blob/52ba48be2e0412cbf1070ae05ea4a4584a520af2/ahmadul_cse_sust_resume.pdf](https://t.ly/AUpYo)
+- 📄 Know about my experiences (Resume) [https://github.com/2018331109/Resume/blob/52ba48be2e0412cbf1070ae05ea4a4584a520af2/ahmadul_cse_sust_resume.pdf](https://github.com/2018331109/Resume/blob/52ba48be2e0412cbf1070ae05ea4a4584a520af2/ahmadul_cse_sust_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmadul-hasan-bb5514230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadul-hasan-bb5514230/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ahmadulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmadulhasan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ahmadul109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ahmadul109" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ahmadulsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ahmadulsh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmadul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ahmadul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmadul/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmadul-hasan-bb5514230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadul-hasan-bb5514230" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahmadulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmadulhasan" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ahmadul109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahmadul109" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmadulsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmadulsh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmadul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmadul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2018331109&show_icons=true&locale=en" alt="2018331109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2018331109&" alt="2018331109" /></p>
+
+
