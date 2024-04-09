@@ -1,3 +1,5 @@
+[![Cover Photo](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
+
 <h1 align="center">Hi 👋, I'm Ahmadul Hasan</h1>
 <h3 align="center">I am now a fresh graduate from the Department of CSE, Shahjalal University of Science and Technology</h3>
 
@@ -31,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2018331109&show_icons=true&locale=en" alt="2018331109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2018331109&" alt="2018331109" /></p>
-
