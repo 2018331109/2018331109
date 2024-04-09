@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahmadulsh@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://github.com/2018331109/Resume/blob/52ba48be2e0412cbf1070ae05ea4a4584a520af2/ahmadul_cse_sust_resume.pdf](https://github.com/2018331109/Resume/blob/52ba48be2e0412cbf1070ae05ea4a4584a520af2/ahmadul_cse_sust_resume.pdf)
+- 📄 Know about my experiences (Resume) [Resume from Github](https://shorturl.at/uyGL2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
