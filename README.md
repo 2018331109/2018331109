@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmadul Hasan</h1>
-<h3 align="center">I am now a fresh graduate from the Department of CSE, Shahjalal University of Science and Technology</h3>
+<h3 align="center">R&D Engineer @Shanghai BDCOM Information Technology Co., Ltd.</h3>
 
 [![Cover Photo](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
 
