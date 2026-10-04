@@ -19,7 +19,7 @@ Software Engineer | Backend Developer | Competitive Programmer
 * 🏆 **ACM ICPC Asia Dhaka Site Regionalist 2023**
 * 🎓 B.Sc. in **Computer Science & Engineering, SUST**
 * 📫 **[ahmadulsh@gmail.com](mailto:ahmadulsh@gmail.com)**
-* 📄 [Resume](https://shorturl.at/uyGL2)
+* 📄 [Resume](./Engr-Ahmadul_Hasan.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
