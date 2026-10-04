@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmadul Hasan</h1>
 <h3 align="center">Software Engineer @BRAC Bank PLC || Ex. Software Engineer @US-Bangla Airlines || CSE Graduate @Shahjalal University of Science and Technology</h3>
 
-[![Cover Photo](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
+[![Cover Photo](./Cover.png)(https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2018331109&label=Profile%20views&color=0e75b6&style=flat" alt="2018331109" /> </p>
 
