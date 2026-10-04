@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmadul Hasan</h1>
-<h3 align="center">Jr. Software Engineer (.NET) @TechnoNext (US-Bangla Group) || Ex. Software Engineer (R&D) @Shanghai BDCOM Information Technology Co., Ltd. || CSE Graduate @Shahjalal University of Science and Technology</h3>
+<h3 align="center">Software Engineer @BRAC Bank PLC || Ex. Software Engineer @US-Bangla Airlines || CSE Graduate @Shahjalal University of Science and Technology</h3>
 
 [![Cover Photo](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)](https://media.licdn.com/dms/image/D5616AQHbOKu5FQ4QNA/profile-displaybackgroundimage-shrink_350_1400/0/1697534993722?e=1718236800&v=beta&t=I82dwSoHGEBx3uSOFYkfrKv7t4_wld0UGSDQCg3dKfY)
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2018331109" alt="2018331109" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://shorturl.at/vMOPV)
+- 🔭 I’m currently working on a FinTech Microservice Application
 
-- 🌱 I’m currently learning **Web FrameWorks**
+- 🌱 I’m currently mastering **C# and .NET**
 
 - 💬 Ask me about **Problem Solving**
 
